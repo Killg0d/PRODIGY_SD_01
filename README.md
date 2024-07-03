@@ -102,6 +102,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to contact me at [shettytarun2002@example.com].
 
-```
 
-You can customize the repository URL, email address, and other details as needed. This README provides an overview of the project, installation instructions, and other useful information.
+
