@@ -1,0 +1,35 @@
+.converter-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #1e8ca5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  color: aliceblue;
+}
+
+.converter-container h2 {
+  font-size: 1.5rem;
+  margin: 15px;
+  text-align: center; /* Center the heading */
+}
+
+.container-box {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.container-box label {
+  margin-right: 10px;
+  flex: 1; /* Ensure labels take equal space */
+  text-align: right; /* Align labels to the right */
+}
+
+.container-box input[type="text"] {
+  flex: 2; /* Ensure input fields take up more space */
+  padding: 8px;
+  font-size: 1rem;
+  margin-left: 10px; /* Add space between label and input */
+  border: 1px solid #615757;
+  border-radius: 4px;
+}
